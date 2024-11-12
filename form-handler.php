@@ -16,8 +16,8 @@ $count = trim(strip_tags($_POST["count"]) ? $_POST['count'] : 1);
 
 
 // test
-$tg_bot_token = "7109552200:AAHLhD0HlSorllKGoWGWmUryYHvUEa5ZKWs";
-$chat_id = "-4215125618";
+$tg_bot_token = "";
+$chat_id = "";
 
 
 
